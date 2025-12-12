@@ -1,0 +1,12 @@
+body {
+    background-color: lightgray;
+}
+
+#main-title {
+    color: #2f3a63;
+    padding: 10px;
+    margin: auto;
+    width: auto;
+    box-sizing: border-box;
+    text-align: center;
+}
