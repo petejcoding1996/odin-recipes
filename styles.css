@@ -10,3 +10,25 @@ body {
     box-sizing: border-box;
     text-align: center;
 }
+
+#odin-cooking {
+    display: flex;
+    align-items: center;
+    height: auto;
+    padding: 10px;
+    margin: auto;
+    width: 300px;
+    color: gray;
+}
+
+ul {
+    padding-left: 700px;
+}
+
+li {
+    display: inline;
+    width: 100px;
+    height: 160px;
+    padding: 18px;
+    align-items: center;
+}
